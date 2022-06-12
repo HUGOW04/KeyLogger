@@ -30,7 +30,7 @@ bool SpecialKeys(int S_Key)
         cout<<"\n";
         LOG("\n");
         return true;
-    case '¾':
+    case '.':
         cout<<".";
         LOG(".");
         return true;
